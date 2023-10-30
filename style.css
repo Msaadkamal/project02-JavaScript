@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.bgImg{
+    height: 100vh;
+    background-image: url(image/image.1.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 160%;
+
+}
+.head{
+    width: 80%;
+    margin: auto; 
+}
+.head h1{
+    padding:  20px 0;
+    margin-bottom: 20px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    letter-spacing: 0.5px;
+}
+.head p{
+    font-family: sans-serif;
+    line-height: 16px;
+    font-size: 15px;
+    color: gray;
+}
